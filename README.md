@@ -120,8 +120,3 @@ The dataset enables **customer-level, product-level, and time-based analysis**.
 
 ## ⭐ If you find this useful
 Feel free to ⭐ the repository or fork it!
-
-
-
-<img width="1882" height="1045" alt="Screenshot 2026-02-06 230452" src="https://github.com/user-attachments/assets/9c009d6d-4691-4891-8ac3-03214a74a71a" />
-<img width="1883" height="1086" alt="Screenshot 2026-02-06 230422" src="https://github.com/user-attachments/assets/e373ecc5-7d09-43f0-90f1-352c22491405" />
