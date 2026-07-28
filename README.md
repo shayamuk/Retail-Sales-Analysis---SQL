@@ -1,4 +1,4 @@
-# Retail Sales Analysis using SQL (MySQL)
+# Retail Churn Revenue Analysis (SQL)
 
 ## 📌 Project Overview
 This project performs an end-to-end **Retail Sales Analysis** using **MySQL** to uncover actionable business insights related to **revenue drivers, customer behavior, churn risk, and operational optimization**.
